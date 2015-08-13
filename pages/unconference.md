@@ -1,4 +1,4 @@
- ## The Unconference
+## The Unconference
 
 The main Scala World schedule is a curated programme of invited speakers, but
 we wanted everyone to have the opportunity to come along and present.
