@@ -18,4 +18,4 @@ As part of our preparations for Scala World, we have negotiated special rates wi
  - [Limes Country Guest House](http://www.limespenrith.co.uk/)*, Rheged — 5 minutes' walk, from £50
  - [Center Parcs](http://www.centerparcs.co.uk/villages/whinfell), Whinfell Forest — 15 minutes by car, from £28 (group booking)
 
-* Hotels marked with an asterisk are either a short walk to the venue at Rheged, or will be accessible via a free shuttle bus.
+\* Hotels marked with an asterisk are either a short walk to the venue at Rheged, or will be accessible via a free shuttle bus.
