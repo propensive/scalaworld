@@ -1,4 +1,4 @@
-Getting to the Lake District
+## Getting to the Lake District
 
 As one of the more remote areas of Britain’s countryside, most attendees will
 need to travel some distance to get to Lakeland. Nevertheless, the Lake
@@ -15,8 +15,9 @@ approximately once an hour to and from each of those locations.
 For visitors coming from outside the UK, we recommend flying into Manchester
 Airport and either hiring a car, or taking the train directly from the airport
 to Penrith. Glasgow and Edinburgh Airports are viable alternatives, with
-slightly longer journey times to Penrith by train.  Getting Around Lake
-District
+slightly longer journey times to Penrith by train.
+
+## Getting Around Lake District
 
 Travelling around Lakeland is easiest with a car, but if that is not an option,
 public transport is available along the major routes. The [X4 and
