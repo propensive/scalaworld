@@ -6,7 +6,8 @@ Centre. We have given particular attention to the quality and variety of food
 we have available at Scala World, and a delicious menu of locally-sourced grub
 has been put together by the culinary experts at Rheged.
 
-<img src="/images/extempore2.png" style="shape-outside:url('/images/extempore2.png')"/>
+<img class="inlineSpeaker" src="/images/extempore2.png"
+style="shape-outside:url('/images/extempore2.png')"/>
 
 ### The Eyjafjallajökull Lecture
 
