@@ -27,8 +27,10 @@ have to, though - you can still propose a talk on the day!
 
 Here's what you will need to do to submit a proposal:
 
-1. fork the Github repository `https://github.com/propensive/scalaworld`
-2. copy the file `pages/unconference/sample.md` to `pages/unconference/<your title>.md`
+1. fork the Github repository
+[`https://github.com/propensive/scalaworld`](https://github.com/propensive/scalaworld)
+2. copy the file `pages/unconference/sample.md` to `pages/unconference/<your
+title>.md`
 3. edit your proposal
 4. submit a pull-request back to `propensive/scalaworld`
 
