@@ -28,7 +28,7 @@ it without fear in your own code base. The broad ideas are not specific to
 Scalaz, but Scalaz provides an excellent implementation that is beneficial to
 learn in its own right.
 
-[![Underscore](/images/underscore.png)](http://underscore.io/)
+[![Underscore](/images/underscore_inline.png)](http://underscore.io/)
 
 See the [Advanced Scala with
 Scalaz](http://underscore.io/events/2015-09-23-advanced-scala.html) course
