@@ -6,7 +6,7 @@ Park](http://www.lakedistrict.gov.uk/). This beautiful setting provides us with
 a great opportunity to combine a passion for functional programming with the
 Great Outdoors.
 
-<img src="/images/rheged.jpg" style="float:left"/>
+![The Rheged Centre](/images/rheged.jpg)
 
 The Rheged Centre has established itself as a local destination for food, the
 outdoors, arts and culture, with a selection of unique shops, cafés, a gallery
