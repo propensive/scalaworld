@@ -48,10 +48,6 @@ very disorientating, aside from being difficult to see where you are going.
 Ensure you have a map and compass with you, and check local forecasts before
 setting out. If mist is a problem, do not diverge from well-established paths.
 
-If the weather does make it impossible to walk, we have arranged to put
-together a full-day informal Scala workshop at the Rheged Centre, but this will
-only go ahead if the weather is bad.
-
 ## Driving
 
 Lakeland can offer many memorable scenic drives through bucolic lowlands, and
