@@ -27,7 +27,9 @@ winds. If in doubt, pack an extra layer.
 Another useful piece of equipment when climbing is a stick, or walking pole.
 Although not particularly useful on the ascent, a stick (or two) will transfer
 some of the burden of the descent from your legs to your arms, and you will
-appreciate it for days afterwards.  Weather
+appreciate it for days afterwards.
+
+## Weather
 
 The Lake Distract does not get its name from its many dry valleys, and the rain
 is what helps to sculpt the beautiful scenery. Whilst we can put together a
