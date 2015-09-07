@@ -7,8 +7,8 @@ form the backbone of many domain model implementations today.
 In this talk we will take a radically different approach. We will start with a
 focus on the verbs first, think about domain behaviors and how we can model
 them using pure functions grouped together within extensible containers called
-modules. We will take an algebraic approach towards evolution of these modules
-- the algebra being composed of functions, types and laws. We will see how the
+modules. We will take an algebraic approach towards evolution of these modules,
+the algebra being composed of functions, types and laws. We will see how the
 domain algebra can be constructed as a composition of algebras from standard
 categorical structures like monoids, functors and monads.
 
