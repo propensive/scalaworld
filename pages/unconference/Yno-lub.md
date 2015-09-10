@@ -19,10 +19,14 @@ scala> 0 :: List(3.0)
 res1: List[AnyVal] = List(0, 3.0)
 
 scala> List(Left(1), Right("two"))
-res2: List[Product with Serializable with scala.util.Either[Int,String]] = List(Left(1), Right(two))
+res2: List[Product with Serializable with scala.util.Either[Int,Strin
+g]] = List(Left(1), Right(two))
 
 scala> List(Vector(0), Range(0, 1))
-res3: List[scala.collection.immutable.IndexedSeq[Int] with scala.collection.AbstractSeq[Int] with Serializable with scala.collection.CustomParallelizable[Int,scala.collection.parallel.immutable.ParSeq[Int] with Serializable{def seq: scala.collection.immutable.IndexedSeq[Int] with scala.collection.AbstractSeq[Int] with Serializable with scala.collection.CustomParallelizable[Int,scala.collection.parallel.immutable.ParSeq[Int] with Serializable]{def dropRight(n: Int): scala.collection.immutable.IndexedSeq[Int] with scala.collection.AbstractSeq[Int] with Serializable; def takeRight(n: Int): scala.collection.immutable.IndexedSeq[Int] with scala.collection.AbstractSeq[Int] with Serializable; def drop(n: Int): scala.collection.immutable.IndexedSeq[Int] with scala.collection.AbstractSeq[Int] wi...
+res3: List[scala.collection.immutable.IndexedSeq[Int] with scala.coll
+ection.AbstractSeq[Int] with Serializable with scala.collection.Custo
+mParallelizable[Int,scala.collection.parallel.immutable.ParSeq[Int] w
+ith Serializable{def seq: scala.collection.immutable.IndexedSeq[In...
 ```
 
 This session is a round table to discuss:
