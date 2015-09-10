@@ -9,14 +9,19 @@ Centre (the same venue as the main conference) where anyone can bring along a
 talk or presentation to share.
 
 We would be particularly keen for students who are currently doing research in
-Scala to use this opportunity to show off their ideas, but the opportunity is
-for everyone.
+Scala to use this opportunity to show off their ideas, but this opportunity is
+for everyone!
 
 A number of different-sized rooms have been made available to us for the
 unconference, so we will spend the first 20 minutes meeting and planning the
 schedule for the remainder of the time. This schedule is likely to accommodate
 a combination of talk lengths, from ten-minute lightning talks to 40-minute
 sessions, though as a true unconference, we will decide that on the day.
+
+At least one track of talks will be videoed, and chosen speakers will have
+their videos published with a beautiful watercolour portrait, just like the
+main conference speakers - if that doesn't provide the incentive to submit a
+proposal, then nothing will!
 
 ### Submitting a Proposal
 
