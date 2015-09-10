@@ -32,18 +32,17 @@ on 21 September, to be delivered by the inimitable Paul Phillips.
 The team of chefs at the Rheged Centre will prepare a lavish seated
 three-course menu for Scala World guests in Mountain Hall.
 
-*Starter* Fillet of roasted West Cumbrian smoked salmon served with a tempura
-of samphire and pickled cucumber
+*Starter* Pressed Cumbrian ham hock terrine serve with red onion, apple and
+blackberry chutney served with a roasted hazelnut leaf salad
 
-*Main course* Roast leg of Cumbrian lamb served with an apple and black pudding
-potato cake, a collection of seasonal spring vegetables in a golden sultana and
-West Cumbrian rum sauce, or
+*Main course* Slow braised feather of Lakeland beef served with a red wine and
+onion sauce and Yorkshire pudding.
 
-*Main course (vegetarian)* Hand-raised homemade Eden Valley cheese tart served
-with pickled red onions and spinach
+*Main course (vegetarian)* Cumbrian homity pie made with local cheese, slow
+cooked onion and thyme served with a sweet slow cooked onion gravy. 
 
-*Dessert* Lakeland gingerbread infused panna cotta served with a collection of
-rhubarb allsorts
+*Dessert* Dark chocolate mousse topped with honey-combe, sour cream and lime
+zest.
 
 *Tea and coffee*
 
