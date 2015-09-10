@@ -5,7 +5,7 @@
 `-Yno-lub` is [an idea](https://i.imgflip.com/qtafl.jpg) I've been having to
 make Scala compiler do less when it finds type `A` and type `B` to unify.
 Instead of trying to calculate the least upper bounds, what if the compiler
-just errored? The cmopiler would do less work, and the resulting behavior would
+just errored? The compiler would do less work, and the resulting behavior would
 be more predictable.
 
 Here are some of the pathological inferences from Jon Pretty's [Type Inference
