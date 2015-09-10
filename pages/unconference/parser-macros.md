@@ -2,7 +2,7 @@
 
 ### [Martin Duhem](https://github.com/Duhemm), 15 minutes
 
-Parser macros are a new kind of macros that allow developers to create new
+Parser macros are a new kind of macro that allow developers to create new
 language constructs and to define their own syntax for using them. Parser
 macros are implemented on top of scala.meta, the new metaprogramming toolkit,
 and we believe that they can make a difference and increase the expressiveness
