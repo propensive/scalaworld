@@ -1,12 +1,15 @@
-# -Yno-lub
+## -Yno-lub
 
-## [Eugene Yokota](https://twitter.com/eed3si9n)
+### [Eugene Yokota](https://twitter.com/eed3si9n), 30 minutes
 
-### 30 minutes
+`-Yno-lub` is [an idea](https://i.imgflip.com/qtafl.jpg) I've been having to
+make Scala compiler do less when it finds type `A` and type `B` to unify.
+Instead of trying to calculate the least upper bounds, what if the compiler
+just errored? The cmopiler would do less work, and the resulting behavior would
+be more predictable.
 
-`-Yno-lub` is [an idea](https://i.imgflip.com/qtafl.jpg) I've been having to make Scala compiler do less when it finds type `A` and type `B` to unify. Instead of trying to calculate the least upper bounds, what if the compiler just errored? The cmopiler would do less work, and the resulting behavior would be more predictable.
-
-Here are some of the pathological inferences from Jon's [Type Inference talk](http://rapture.io/talks/inference/boston.html):
+Here are some of the pathological inferences from Jon Pretty's [Type Inference
+talk](http://rapture.io/talks/inference/boston.html):
 
 ```scala
 scala> List(0, 3.0)
@@ -25,4 +28,6 @@ res3: List[scala.collection.immutable.IndexedSeq[Int] with scala.collection.Abst
 This session is a round table to discuss:
 
 - how `-Yno-lub` can be implemented, and
-- how we can improve type inference of algebraic data types like `Either[A, B]`. Can we use union type?
+- how we can improve type inference of algebraic data types like `Either[A,
+  B]`. Can we use union type?
+

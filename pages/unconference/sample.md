@@ -1,8 +1,6 @@
-# How to Submit a Talk to the Scala World Unconference
+## How to Submit a Talk to the Scala World Unconference
 
-## [Jon Pretty](https://twitter.com/propensive)
-
-### 15 minutes
+### [Jon Pretty](https://twitter.com/propensive), 15 minutes
 
 Use this simple template to propose a talk at the "Scala Sunday" unconference
 at Scala World. Abstracts should include a title, your name, an estimated

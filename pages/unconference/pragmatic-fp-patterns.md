@@ -1,8 +1,6 @@
-# A pragmatic approach to FP architecture in Scala
+## A pragmatic approach to FP architecture in Scala
 
-## [Raul Raja](https://twitter.com/raulraja)
-
-### 30 minutes
+### [Raul Raja](https://twitter.com/raulraja), 30 minutes
 
 In this talk we will see a pragmatic approach to building a purely functional architecture.
 Through the use of Free Monads, Transformers, Kleisli's, Dependently typed checked exceptions we will achieve 

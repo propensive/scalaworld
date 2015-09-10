@@ -1,8 +1,6 @@
-# Parser macros for Scala
+## Parser macros for Scala
 
-## [Martin Duhem](https://github.com/Duhemm)
-
-### 15 minutes
+### [Martin Duhem](https://github.com/Duhemm), 15 minutes
 
 Parser macros are a new kind of macros that allow developers to create new
 language constructs and to define their own syntax for using them. Parser
