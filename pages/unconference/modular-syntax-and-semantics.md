@@ -1,7 +1,7 @@
 
-### Modular Program Syntax and Semantics
+## Modular Program Syntax and Semantics
 
-## Luc Duponcheel, 30 minutes
+### Luc Duponcheel, 30 minutes
 
 This talk is about *modular program syntax and semantics*.
 
