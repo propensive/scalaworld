@@ -19,7 +19,7 @@ In particular, this talk is, roughly speaking, about the separation of
  - side effects (program *semantics* executes them)
 
 The talks emphasises the fact that applicative functor based descriptions,
-being more abstract, allow for more more meanings being attached to them.
+being more abstract, allow for more meanings being attached to them.
 
 The talk also, briefly, goes into a discussion about referential transparancy.
 
