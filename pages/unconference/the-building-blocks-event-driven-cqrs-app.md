@@ -2,7 +2,7 @@
 
 ### [Renato Cavalcanti](https://twitter.com/renatocaval), 60 minutes
 
-In this talk we will have a look at the basic building blocks we need when developping a Event Driven CQRS application in Scala.
+In this talk we will have a look at the basic building blocks we need when developing a Event Driven CQRS application in Scala.
 
 We will discuss some design choices and challenges we may encounter and how to tackle them using the Scala Type System and some functional programming techniques. 
 
