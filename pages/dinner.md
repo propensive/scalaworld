@@ -35,14 +35,17 @@ three-course menu for Scala World guests in Mountain Hall.
 *Starter* Pressed Cumbrian ham hock terrine serve with red onion, apple and
 blackberry chutney served with a roasted hazelnut leaf salad
 
+*Starter (vegetarian)* Roasted butternut squash soup served with sour cream and
+roasted onion focaccia from our local bakery 
+
 *Main course* Slow braised feather of Lakeland beef served with a red wine and
-onion sauce and Yorkshire pudding.
+onion sauce and Yorkshire pudding
 
 *Main course (vegetarian)* Cumbrian homity pie made with local cheese, slow
-cooked onion and thyme served with a sweet slow cooked onion gravy. 
+cooked onion and thyme served with a sweet slow cooked onion gravy
 
 *Dessert* Dark chocolate mousse topped with honey-combe, sour cream and lime
-zest.
+zest
 
 *Tea and coffee*
 
