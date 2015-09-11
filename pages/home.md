@@ -4,7 +4,8 @@ unconference](/unconference), delicious local Cumbrian [food and
 drink](/dinner), and great [hiking](/hiking) amongst the beautifully dramatic
 scenery of the [English Lake District](/venue) (if you want to)!
 
-[REGISTER NOW!](/registernow)
+Registration for Scala World is now closed! Thank you to everyone who
+registered to come - you're in for an amazing time!
 
 You can also ask questions about Scala World on the [Gitter
 channel](https://gitter.im/propensive/scalaworld), email us at
