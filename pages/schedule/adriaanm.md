@@ -1,2 +1,2 @@
-Full details to be provided soon.
+This space is left intentionally blank.
 
