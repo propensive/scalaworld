@@ -1,4 +1,4 @@
-# Student Tickets
+## Student Tickets
 
 We want to do everything we can to encourage students to participate in Scala
 World, to hear about the cutting-edge research taking place in academia, and to
