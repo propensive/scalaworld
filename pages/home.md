@@ -7,10 +7,18 @@ scenery of the [English Lake District](/venue) (if you want to)!
 Registration for Scala World is now closed! Thank you to everyone who
 registered to come - you're in for an amazing time!
 
-You can also ask questions about Scala World on the [Gitter
-channel](https://gitter.im/propensive/scalaworld), email us at
-[info@scala.world](mailto:info@scala.world), or follow
-[@scalaworldconf](https://twitter.com/scalaworldconf) on Twitter.
+### Resources
+
+ - [The Rheged
+   Centre](https://www.google.co.uk/maps/place/The+Rheged+Centre/@54.6472738,-2.7800602,17z/data=!3m1!4b1!4m2!3m1!1s0x487cfb4174aa3153:0x9ee5a4181d2ae4b9?hl=en)
+ - [GitHub repository of Resources](https://github.com/propensive/scalaworld/)
+   for Scala World workshops
+ - [Scala World wiki](https://github.com/propensive/scalaworld/wiki) for
+   discussing logistics
+ - [Gitter channel](https://gitter.im/propensive/scalaworld)
+
+And you can always email us at [info@scala.world](mailto:info@scala.world), or
+ask [@scalaworldconf](https://twitter.com/scalaworldconf) on Twitter.
 
 ### Our Sponsors
 
