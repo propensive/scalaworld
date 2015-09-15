@@ -7,7 +7,7 @@ your program. This talk researches about how to merge the most useful features
 of the object oriented paradigm and functional programming, also focusing
 on how to define a program following the DDD guidelines.
 
-The scratch code for the conference is [here](https://github.com/kmruiz/scala-object-functional-ddd-unconference).
+The scratch code for the unconference is [here](https://github.com/kmruiz/scala-object-functional-ddd-unconference).
 
 Those slides try to explain how to take advantage of:
 
