@@ -14,7 +14,7 @@ As part of our preparations for Scala World, we have negotiated special rates wi
  - [George Hotel](http://www.lakedistricthotels.net/georgehotel)*, Penrith — 10 minutes by car or 35 minutes' walk, £TBC
  - [Westmorland Hotel](http://www.westmorlandhotel.com/), M6 Tebay Services — 20 minutes by car, from £94/night
  - [Travelodge](https://www.travelodge.co.uk/hotels/218/Penrith-hotel)*, Rheged — 10 minutes' walk, from £32/night
- - [Leeming House](http://www.macdonaldhotels.co.uk/our-hotels/macdonald-leeming-house)*, Watermillock — 15 minutes by car, from £105
+ - [Leeming House](http://www.macdonaldhotels.co.uk/our-hotels/macdonald-leeming-house), Watermillock — 15 minutes by car, from £105
  - [Limes Country Guest House](http://www.limespenrith.co.uk/)*, Rheged — 5 minutes' walk, from £50
  - [Center Parcs](http://www.centerparcs.co.uk/villages/whinfell), Whinfell Forest — 15 minutes by car, from £28 (group booking)
 
