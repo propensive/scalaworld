@@ -9,7 +9,8 @@ registered to come - you're in for an amazing time!
 
 ### Resources
 
- - [Scala Sunday Schedule](https://goo.gl/8zj9gX)
+ - [Auditorium channel](https://gitter.im/propensive/auditorium)
+ - [Pennine Gallery channel](https://gitter.im/propensive/pennine)
  - [The Rheged
    Centre](https://www.google.co.uk/maps/place/The+Rheged+Centre/@54.6472738,-2.7800602,17z/data=!3m1!4b1!4m2!3m1!1s0x487cfb4174aa3153:0x9ee5a4181d2ae4b9?hl=en)
  - [GitHub repository of Resources](https://github.com/propensive/scalaworld/)
