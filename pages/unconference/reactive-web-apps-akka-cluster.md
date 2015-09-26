@@ -11,3 +11,5 @@ how to make an event-driven web app failure tolerant, introducing durable
 subscription implemented with Akka persistence and distributed publish
 subscribe in the cluster.
 
+### [Github repo](https://github.com/wilaszekg/akka-play-reactive-sse)
+
