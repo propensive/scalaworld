@@ -1,2 +1,0 @@
-Post-Spiewak recovery period.
-
