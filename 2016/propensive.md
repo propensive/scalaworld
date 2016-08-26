@@ -1,6 +1,8 @@
-# Talk title
+# Interpolating Strings Like A Boss
 
-Your abstract, written in markdown, goes here. It should be about two or three
-paragraphs long.
+Most people are familiar with the `s"Hello, $name"` syntax for composing
+strings, but that only touches the surface of what is possible in Scala. By
+combining it with other advanced Scala features such as implicits and macros,
+we open ourselves up to numerous powerful opportunities with applications in
+domain-specific languages and type-level programming.
 
-But feel free to write as much as you like.
