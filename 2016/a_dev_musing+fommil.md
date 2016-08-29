@@ -1,8 +1,8 @@
 # Writing a Compiler Plugin or Macro
 
-In this workshop, aimed at intermediate Scala developers, you will
-learn how to write a compiler plugin and understand the tooling
-and support consequences.
+In this workshop, aimed at intermediate Scala developers, we explore
+macros and compiler plugins and you will learn how to write a compiler
+plugin and understand the tooling and support consequences.
 
 You will learn about Scala's compile phases, the Types / Trees APIs of
 the compiler, and why compiler plugins / macros cause such a headache
