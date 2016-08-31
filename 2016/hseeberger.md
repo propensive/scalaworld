@@ -1,6 +1,3 @@
-# Talk title
+# Learn you advanced Akka Streams for great Good!
 
-Your abstract, written in markdown, goes here. It should be about two or three
-paragraphs long.
-
-But feel free to write as much as you like.
+Stream processing has become ubiquitous and Akka Streams, an implementation of the Reactive Streams specification, is one of the hottest kids on the block. In this live coding session we briefly cover the essential basics and then introduce advanced features like cyclic graphs and custom stream processing stages.
