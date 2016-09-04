@@ -22,6 +22,6 @@ Build files are classes. Tasks are defs. Customizations happen via
 overrides. All as vanilla Scala code behaving the way you know.
 
 CBT is also very easy to hack. Scala beginners are able to understand
-and modify it's source code and write plugins. A small developer 
+and modify its source code and write plugins. A small developer 
 community formed around CBT and is working on covering important
 features like IDE integration.
