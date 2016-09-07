@@ -1,6 +1,3 @@
-# Talk title
+# Denys's talk
 
-Your abstract, written in markdown, goes here. It should be about two or three
-paragraphs long.
-
-But feel free to write as much as you like.
+Details of Denys's talk will appear here as soon as he's ready!

@@ -1,6 +1,3 @@
-# Talk title
+# The 2016 Eyjafjallajökull Lecture
 
-Your abstract, written in markdown, goes here. It should be about two or three
-paragraphs long.
-
-But feel free to write as much as you like.
+Bodil has no brief for The Eyjafjallajökull Lecture.

@@ -1,6 +1,3 @@
-# Talk title
+# Martin's keynote
 
-Your abstract, written in markdown, goes here. It should be about two or three
-paragraphs long.
-
-But feel free to write as much as you like.
+Details of Martin's keynote will appear here as soon as he's ready!
