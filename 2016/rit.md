@@ -1,3 +1,5 @@
-# Brendan's talk
+## quaich: A “serverless” microframework for event-driven Scala Programming on AWS Lambda
 
-Details of Brendan's talk will appear here as soon as he's ready!
+AWS Lambda is an interesting emerging platform for “serverless” programming. Entirely event driven, it provides an easy model to handle both ‘built-in’ Amazon events – such as DynamoDB & S3 Bucket changes, and HTTP calls through services such as Amazon's API Gateway... as well as custom events. Being “serverless”, Lambda allows us to drop in simple JVM code via assembly JAR that responds through an event loop, minimizing execution costs and eliminating the need to setup and maintain dedicated server instances.
+
+quaich (pronounced ‘quake’) is a Scala microframework, inspired by the Python based [chalice](https://github.com/awslabs/chalice) released by Amazon recently. The concept is simple, single file applications that can receive and handle the JSON events pushed by the Lambda system. Through clever tricks with macros, etc. we provide an easy model for defining your routes files and even parsing custom variables.
