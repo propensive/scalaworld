@@ -1,36 +1,16 @@
-# Specialising Parsers for Queries
+# Staged Parser Combinators
 
-Suppose you want to analyse tweets based on text content, retweet count,
-language and username, from the [firehose][link-firehose]. You'd first need to
-preprocess it all to keep only what you need. Traditionally that would be a two-
-step approach:
+In this talk I present [parsequery](https://github.com/manojo/parsequery). It
+uses [staging](http://manojo.github.io/2015/09/02/staged-parser-combinators) to
+remove composition overhead at compile time to produce efficient, fast parsers.
+Its interface is almost similar to [Scala's parser
+combinators](https://github.com/scala/scala-parser-combinators).
 
-  1. Parse all tweets from the firehose:
+The main goal of `parsequery` is to _systematically_ eliminate all intermediate
+data structures that are creating when running a traditional parser combinator
+program. Typically, parser combinators interleave _static_ composition of
+parsers with  the _dynamic_ act of parsing itself, at runtime. The key insight
+is that we can fully decouple the static parts from the dynamic one.
 
-    ```scala
-    case class Tweet(content: String, ..., rtCount: Int, ..., lang: String, user: User, ...)
-    def tweetParser: Parser[List[Tweet]] = // use favorite parser combinator library
-    ```
-
-  2. Write a filtering query from the parsed collection
-
-    ```scala
-    def relevantInfo = tweetParser map { case tweets =>
-      for (t <- tweets if t.rtCount >= 100)
-      yield (t.content, t.rtCount, t.lang, t.user.name)
-    }
-    ```
-
-This is good, because each component is separate, modular and easily changeable.
-But it is also very bad for performance: we store a lot of ultimately
-irrelevant information. For performance, we'd instead write a hand-crafted,
-interleaved `relevantInfoParser`.
-
-In this talk, I will present a technique to go from the nice modular way of
-writing these programs to the specialised, interleaved, fast versions,
-*automatically*. First the general idea (can be applied to _other_ data formats
-and queries), so you can port it to your own parser combinator library. Then
-some techniques to make your parser combinator library fast(er). And hopefully
-even a prototype implementation.
-
-[link-firehose]: https://dev.twitter.com/streaming/reference/get/statuses/firehose
+The presentation will go over the theory behind it, and how to leverage Scala
+macros and quasiquotes to implement this optimisation as a library.

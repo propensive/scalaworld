@@ -1,1 +1,0 @@
-manojah_shanti.md
